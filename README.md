@@ -1,4 +1,14 @@
 
+Mijn persoonlijke AHS informatie
+------
+| Naam | Ongenaert |
+| Voornaam | Emily |
+| Email | emilonge@student.arteveldehs.be |
+| Adres | Voorthoek 95a |
+| | 9190 Stekene |
+
+
+
 Mappen
 ------
 
@@ -14,4 +24,4 @@ Mappen
 - [Lectures - 10](/Lectures/10/)
 - [Lectures - 11](/Lectures/11/)
 - [Lectures - 12](/Lectures/12/)
-- [Lectures - 14](/Lectures/13/)
+- [Lectures - 13](/Lectures/13/)
