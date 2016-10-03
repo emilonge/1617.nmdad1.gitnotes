@@ -1,12 +1,13 @@
 
 Mijn persoonlijke AHS informatie
 ------
-| :------- | : ------- :|
-| Naam | Ongenaert |
-| Voornaam | Emily |
-| Email | emilonge@student.arteveldehs.be |
-| Adres | Voorthoek 95a |
-| | 9190 Stekene |
+|          |                                 |
+| :------- | : ---------------------------- :|
+| Naam     | Ongenaert                       |
+| Voornaam | Emily                           |
+| Email    | emilonge@student.arteveldehs.be |
+| Adres    | Voorthoek 95a                   |
+|          | 9190 Stekene                    |
 
 
 
