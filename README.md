@@ -2,7 +2,7 @@
 Mijn persoonlijke AHS informatie
 ------
 |          |                                 |
-| :------- | : ---------------------------- :|
+| -------- | ------------------------------- |
 | Naam     | Ongenaert                       |
 | Voornaam | Emily                           |
 | Email    | emilonge@student.arteveldehs.be |
