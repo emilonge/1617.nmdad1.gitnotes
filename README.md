@@ -3,13 +3,17 @@ Mijn persoonlijke AHS informatie
 ------
 
 
-|          |                                 |
-| -------- | ------------------------------- |
-| Naam     | Ongenaert                       |
-| Voornaam | Emily                           |
-| Email    | emilonge@student.arteveldehs.be |
-| Adres    | Voorthoek 95a                   |
-|          | 9190 Stekene                    |
+|                     |                                 |
+| ------------------- | ------------------------------- |
+| Naam                | Ongenaert                       |
+| Voornaam            | Emily                           |
+| Email               | emilonge@student.arteveldehs.be |
+| Opleidingsonderdeel | New Media Design & Development  |
+| Afstudeerrichting   | Multimediaproductie (MMP)       |
+| Specialisatie       | ProDev                          |
+| Academiejaar        | 2016 - 2017                     |
+| Onderwijsinstelling | Arteveldehogeschool             |
+
 
 
 
