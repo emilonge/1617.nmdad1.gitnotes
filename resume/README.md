@@ -28,11 +28,11 @@
 ##Werkervaring
 
 >**Basic Italian** - 2015 - Heden
-<br> >> Bediende
+>>Bediende
 
 
 >**Elmina** (ijs en desserten)
-<br> >> Productie
+>>Productie
 
 
 >**Babysitten**
