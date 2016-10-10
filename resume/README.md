@@ -4,7 +4,7 @@
 
 ##Personalia
 
-|                     |                                 |
+>|                     |                                 |
 | ------------------- | ------------------------------- |
 | Naam                | Ongenaert Emily                 |
 | Adres               | Voorthoek 95a                   |
@@ -28,11 +28,11 @@
 ##Werkervaring
 
 >**Basic Italian** - 2015 - Heden
-<br>Bediende
+<br> >Bediende
 
 
 >**Elmina** (ijs en desserten)
-<br>Productie
+<br> >Productie
 
 
 >**Babysitten**
@@ -54,7 +54,7 @@
 * C#
 
 ##Talenkennis
-|                     |                                 |
+>|                     |                                 |
 | ------------------- | ------------------------------- |
 | Nederlands          | Moedertaal                      |
 | Engles              | Goed                            |
@@ -66,4 +66,5 @@
 * Zwemmen
 * Films/series kijken
 
+##Foto
 ![alt text](https://pbs.twimg.com/profile_images/738035228195868672/iYfBH9we.jpg "Picture")
