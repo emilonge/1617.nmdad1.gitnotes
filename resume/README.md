@@ -27,7 +27,7 @@
 
 ##Werkervaring
 
->2015 - Heden: **Basic Italian** 
+>**Basic Italian** - 2015 - Heden
 <br>Bediende
 
 
@@ -47,7 +47,7 @@
 * Adobe After Effects
 
 ###Webtechnologie en programeertalen
-* HTML
+>* HTML
 * CSS
 * Javascript
 * PHP
@@ -66,3 +66,4 @@
 * Zwemmen
 * Films/series kijken
 
+![alt text](https://pbs.twimg.com/profile_images/738035228195868672/iYfBH9we.jpg "Picture")
