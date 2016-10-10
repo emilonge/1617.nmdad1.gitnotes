@@ -1,7 +1,6 @@
 
 #Resume
 
----
 
 ##Personalia
 
@@ -20,6 +19,7 @@
 ##Opleidingen
 
 >2009 - 2015: **Humane Wetenschappen**
+
 Onze-Lieve-Vrouw-Presentatie
 
 >2015 - Heden: **Grafische en Digitale Media**
@@ -45,11 +45,11 @@ Productie
 * Adobe After Effects
 
 ###Webtechnologie en programeertalen
-HTML
-CSS
-Javascript
-PHP
-C#
+<br>HTML
+<br>CSS
+<br>Javascript
+<br>PHP
+<br>C#
 
 ##Talenkennis
 |                     |                                 |
