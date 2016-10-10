@@ -19,19 +19,21 @@
 ##Opleidingen
 
 >2009 - 2015: **Humane Wetenschappen**
+<br>Onze-Lieve-Vrouw-Presentatie
 
-Onze-Lieve-Vrouw-Presentatie
 
 >2015 - Heden: **Grafische en Digitale Media**
-Artevelde Hogeschool
+<br>Artevelde Hogeschool
 
 ##Werkervaring
 
 >2015 - Heden: **Basic Italian** 
-Bediende
+<br>Bediende
+
 
 >**Elmina** (ijs en desserten)
-Productie
+<br>Productie
+
 
 >**Babysitten**
 
@@ -45,11 +47,11 @@ Productie
 * Adobe After Effects
 
 ###Webtechnologie en programeertalen
-<br>HTML
-<br>CSS
-<br>Javascript
-<br>PHP
-<br>C#
+* HTML
+* CSS
+* Javascript
+* PHP
+* C#
 
 ##Talenkennis
 |                     |                                 |
@@ -60,7 +62,7 @@ Productie
 | Duits               | Matig                           |
 
 ##Overige
-* Klimmen
+>* Klimmen
 * Zwemmen
 * Films/series kijken
 
